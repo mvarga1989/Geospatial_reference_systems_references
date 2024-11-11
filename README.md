@@ -3,6 +3,7 @@
 # Channels
    - [Geometric geodesy, Arnaldo Gagula YT](https://www.youtube.com/watch?v=33LOru7E-98&list=PLKWrAz84fcUUTx2xrgW4c-sBWc9Ru5cbO)
    - [Geodesy Digital Academy, prof. Mehdi Eshagh](https://www.youtube.com/@GeodesyDigitalAcademy-bm8kg/videos)
+   - [IAG GGOS - Global Geodetic Observing System](https://www.youtube.com/watch?v=vvNXv05646M)
    
 ## Geometric geodesy, geospatial reference systems
 
@@ -37,11 +38,30 @@
    - [Grid coordinate systems and UTM, Don Boyes](https://www.youtube.com/watch?v=Q7hWZQTAkRo), Rating: :star2::star2::star2::star2::star2:, Duration: 14 minutes
    - [Tissot's indicatrix, Don Boyes](https://www.youtube.com/watch?v=wEOFA1u3mdY) :star2::star2::star2::star2::star2:
    - [Projection class](https://www.youtube.com/watch?v=wEOFA1u3mdY) :star2::star2::star2::star2::star2:
+   - [The UTM Grid](https://www.youtube.com/watch?v=HonFxihqstU)
+   - [Intro to coordinate systems and UTM projection (C12, V1)](https://www.youtube.com/watch?v=HnWNhyxyUHg)
    
+### Terrestrial reference systems
+   - [(EN) Terrestrial Reference Frames - Connecting the World through Geodesy](https://youtu.be/vvNXv05646M)
+   - [Global reference systems - ITRS, ICRS and GCRS](https://www.youtube.com/watch?v=aGv66aosJX4)
+   
+
+
+### Celestial reference systems
+   - [Free precession of an ellipsoid](https://www.youtube.com/watch?v=uJZ6frVxABE)
+   - [Where is it? celestial coordinates explained](https://www.youtube.com/watch?v=S0R8M7CQbVA)
+       - [DORIS the space surveyor (EN)](https://youtu.be/CaIAkwMTzmk)
+	   - [Lunar Ranging](https://youtu.be/RMLGkrpxaSQ)
+	   - [Doris, network of stations (EN)](https://www.youtube.com/watch?v=qQdqEAl06C4)
+	   - [Why this observatory fires lasers at satellites](https://www.youtube.com/watch?v=vdvIY0CJaXw)
+	   - [Space Geodesy With NASA Scientist Chopo Ma | VLBI GSFS Interferometry Science Video](https://youtu.be/EWPetzfPUtA)
+	   - [Measuring Earth's Orientation with Very Long Baseline Interferometry](https://youtu.be/XcSZjT3oDSY)
+	   - [Very Long Baseline Interferometry](https://youtu.be/PX6ab3J-1V0)
+    
 # Short video (~10 min) sources (random interesting topics)
 - [Eratosthenes - Measuring the Circumference of Earth](https://www.youtube.com/watch?v=14d-GonvB9A)
 - [Non Euclidean Geodesics!!](https://www.youtube.com/watch?v=KsdIuVByfMc)
-
+- [Determine Longitude](https://www.youtube.com/watch?v=vvNXv05646M)
 
 # Profiles
 - Professor Don Boyes, Torontp
